@@ -7,7 +7,7 @@ A Cisco Packet Tracer simulation demonstrating **Router-on-a-Stick (ROAS)** inte
 ## Network Topology
 
 ```
-![ROAS Network Topology](Screenshot 2025-03-16 190425.png)
+![ROAS Network Topology](image.png)
 ```
 
 ---
