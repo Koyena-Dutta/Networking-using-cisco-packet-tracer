@@ -124,10 +124,10 @@ The simulation table shows:
 
 ## Files
 
-| File                  | Description                        |
-|-----------------------|------------------------------------|
-| `roas_lab.pkt`        | Cisco Packet Tracer topology file  |
-| `README.md`           | This documentation                 |
+| File                        | Description                        |
+|-----------------------------|------------------------------------|
+| `network-topology.pkt(ROAS)`| Cisco Packet Tracer topology file  |
+| `README.md`                 | This documentation                 |
 
 ---
 
